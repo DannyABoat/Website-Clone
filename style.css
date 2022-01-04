@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+
+
+.flex-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .flex-nav ul li {
+    flex-grow: 1;
+  }  
+
+  ul{
+      font-size: 15px;
+  }
+
+.blockone{
+    background-image: url(Web\ Background.jpg);
+    background-position: center;
+}
+
+button{
+    shape-margin: 1px;
+    color: white;
+    text-align: center; 
+    background-color: #1C6DD0;
+    font-size: 10px;
+    padding: 0px 30px;
+}
+h1{
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif ;
+    padding: 100px 25px 0px 100px;
+    color: white;
+}
+
+
+.QR{
+    padding: 60px 50px 0px 100px;
+}
+
+ol{
+    color: white;
+    font-size: 20px;
+    padding: 0px 0px 20px 250px ;
+    justify-content: space-between;
+    line-height: 30px;    
+}
+
+
+.hero{
+    padding: 0 0 0 0px;
+}
+
+.last{
+    color: deepskyblue;
+    font-size: 25px;
+    padding: 10px 0 100px 100px;
+}
+
+p1{
+    color: white;
+    font-size: 18px;
+    align-content: center;
+    padding: 0 0 50px 100px;
+    background-color: slateblue;
+    display: flex;
+    flex-direction: row;
+}
+
+p2{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+p3{
+    font-size: 18px;
+}
+
+p4{
+    color: #191919;
+    font-size: 20px;
+    text-align: center;
+}
+
+.payinthree{
+    background-color: snow;
+    padding: 20px 0 84px 100px;
+}
+
+.yoga{
+    background-color: rgb(243, 240, 240);
+    padding: 70px 0 153px 600px;
+}
+
+.notification{
+    background-color: snow ;
+    padding: 80px 0 150px 100px;
+}
+
+.touch{
+    background-color: rgb(243, 240, 240);
+    padding: 70px 0 144px 600px;
+}
